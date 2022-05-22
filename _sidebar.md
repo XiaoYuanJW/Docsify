@@ -5,4 +5,4 @@
     * [MyBatis](architect/MyBatis.md)
     * [SpringCloud](architect/SpringCloud.md)
   * 其他
-    * [Docsify])(other/Docsify.md)
+    * [Docsify](other/Docsify.md)
